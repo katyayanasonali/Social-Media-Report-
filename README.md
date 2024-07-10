@@ -43,6 +43,7 @@ May 2024 and April 2024 have the lowest engagement sums, with May slightly highe
 
 
 Summary
+
 LinkedIn is the most engaging platform on average, while Facebook leads in total engagement with views and average followers.
 February 2024 is the peak month for engagement, followed by March 2024.
 Engagement drops notably in May 2024 and April 2024.
